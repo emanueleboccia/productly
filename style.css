@@ -1,0 +1,163 @@
+
+.text-section-1 {
+    font-weight: 700;
+    margin-bottom: 28px;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.h2-custom {
+    font-size: 30px;
+}
+
+
+
+/* NAVBAR CUSTOM */
+.nav-link-custom {
+    color: #212832;
+}
+
+.nav-link-custom:hover {
+    color: #f90;
+}
+
+.bg-navbar-custom {
+    background-color: rgba(249, 250, 253, 0);
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.backdrop {
+    backdrop-filter: blur(4px);
+}
+
+
+
+/* HEADER CUSTOM */
+.custom-header-padding {
+    padding-top: 64px;
+    padding-bottom: 80px;
+}
+
+.header-text {
+    font-size: xx-large;
+    font-weight: 700;
+    margin-bottom: 28px;
+    font-size: 55px;
+}
+
+.header-paragraph {
+    margin-bottom: 48px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #797979;
+}
+
+.header-bg-custom {
+    background-color: #FFFEFE;
+}
+
+
+
+/* SEZIONI CUSTOM */
+.section-custom {
+    padding-top: 40px;
+    padding-bottom: 80px;
+    margin-bottom: 90px;
+    margin-top: 90px;
+    background-size: 100%;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.section-custom-pricing {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+
+
+/* BOTTONI CUSTOM */
+.btn-signin-custom {
+    background-color:white;
+    color: #212832;
+    border: 1px solid #BCCFE5;
+    padding: 11px 25px;
+    font-weight: bold;
+}
+
+.btn-signin-custom:hover {
+    background-color:white;
+    color: #212832;
+    border: 1px solid #BCCFE5;
+    padding: 11px 25px;
+    font-weight: bold;
+}
+
+.btn-signup-custom {
+    background-color: #f90;
+    color: white;
+    border: 1px solid #f90;
+    padding: 11px 25px;
+    font-weight: bold;
+}
+
+.btn-signup-custom:hover {
+    background-color: white;
+    color: #f90;
+    border: 1px solid #f90;
+    padding: 11px 25px;
+    font-weight: bold;
+}
+
+.btn-custom-header {
+    background-color: #f90;
+    color: white;
+    border: 1px solid #f90;
+    padding: 11px 25px;
+    font-weight: bold;
+}
+
+.btn-custom-header:hover {
+    background-color: white;
+    color: #f90;
+    border: 1px solid #f90;
+    padding: 11px 25px;
+    font-weight: bold;
+}
+
+.btn-custom-1 {
+    background-color: #f90;
+    color: white;
+    border: 1px solid #f90;
+    padding: 11px 25px;
+    font-weight: bold;
+}
+
+.btn-custom-1:hover {
+    background-color: white;
+    color: #f90;
+    border: 1px solid #f90;
+    padding: 11px 25px;
+    font-weight: bold;
+}
+
+
+
+
+.card {
+    border: 0px;
+}
+
+
+.accordion-button:not(.collapsed) {
+    background-color:#f90;
+    color: white;
+    font-weight: 600;
+}
